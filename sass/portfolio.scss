@@ -16,18 +16,12 @@
 @import "./components/logo";
 @import "./components/grid";
 @import "./components/item";
-@import "./components/human";
+@import "./components/product";
 @import "./components/social-links";
 @import "./components/sign-up";
 
 /* ===========LAYOUT============================ */
 @import "./layout/preloader";
 @import "./layout/header";
-@import "./layout/hero";
-@import "./layout/modal";
-@import "./layout/features";
-@import "./layout/duties";
-@import "./layout/_staff";
-@import "./layout/_customer";
-@import "./layout/_footer";
-
+@import "./layout/port";
+@import "./layout/footer";
